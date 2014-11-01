@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DestroyAll.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DestroyAll.cs" Line="20" Column="3" />
+      <File FileName="Assets\Scripts\Grape.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ChangeSpeed.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameOver.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GrapeEat.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoveScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Spawner.cs" Line="40" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
